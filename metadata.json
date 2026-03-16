@@ -1,0 +1,5 @@
+{
+  "name": "AutoDTP AI Agent",
+  "description": "DTP原稿業務に特化したAIワークフロー自動化プラットフォーム。GCSを中心としたアセット管理と、AIエージェント・プロンプト・ファンクションコールを組み合わせた柔軟なパイプライン構築を実現します。",
+  "requestFramePermissions": []
+}
